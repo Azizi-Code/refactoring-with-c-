@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Packt.CloudySkiesAir", "Packt.CloudySkiesAir\Packt.CloudySkiesAir.csproj", "{DAFD11BB-55AD-4AB3-99A1-AA12D624DBAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Packt.CloudySkiesAir.Tests", "Packt.CloudySkiesAir.Tests\Packt.CloudySkiesAir.Tests.csproj", "{BD29985C-5405-4925-9F56-EBFE85A7246E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFD11BB-55AD-4AB3-99A1-AA12D624DBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFD11BB-55AD-4AB3-99A1-AA12D624DBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFD11BB-55AD-4AB3-99A1-AA12D624DBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFD11BB-55AD-4AB3-99A1-AA12D624DBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD29985C-5405-4925-9F56-EBFE85A7246E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD29985C-5405-4925-9F56-EBFE85A7246E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD29985C-5405-4925-9F56-EBFE85A7246E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD29985C-5405-4925-9F56-EBFE85A7246E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
